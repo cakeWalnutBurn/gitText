@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("master分支合并冲突");
         System.out.println("my_cake分支合并冲突");
         System.out.println("ssh免密提交");
+        System.out.println("github上进行的修改");
     }
 }

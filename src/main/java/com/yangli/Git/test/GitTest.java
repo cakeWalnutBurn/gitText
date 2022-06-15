@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("第二个版本");
         System.out.println("在my_cake的分支进行了修改");
         System.out.println("master分支合并冲突");
+        System.out.println("my_cake分支合并冲突");
     }
 }
